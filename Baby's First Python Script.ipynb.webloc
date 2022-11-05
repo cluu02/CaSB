@@ -6,3 +6,12 @@
 	<string>https://github.com/ethanhung11/CBS-Test/blob/main/Baby's%20First%20Python%20Script.ipynb</string>
 </dict>
 </plist>
+ def evenOrOdd(n):
+    if n==1:
+        return "Odd"
+    elif n==2:
+       return "Even"
+   elif n==3:
+       return "Odd"
+  else:
+       return "That number is too big"
